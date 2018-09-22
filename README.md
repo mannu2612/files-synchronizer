@@ -6,7 +6,9 @@ Run mvn clean install to build the project. Maven plugin would generate the fat 
 **CLI Options**
 
 *To Copy*
+
 java -jar files-synchronizer-0.0.1-SNAPSHOT-jar-with-dependencies.jar -c {{src}} {{dest}}
 
 *To Move*
+
 java -jar files-synchronizer-0.0.1-SNAPSHOT-jar-with-dependencies.jar -m {{src}} {{dest}}
